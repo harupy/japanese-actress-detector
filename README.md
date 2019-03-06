@@ -1,15 +1,21 @@
 # Satomi Ishihara Detector
-An Inception-based faster R-CNN model using Tensorflow which detects satomi ishiara (石原さとみ) who is a very famous Japanese actress.
+An Inception-based faster R-CNN model using Tensorflow to detect Satomi Ishihara (Japanese actress).
 
+<img src="https://github.com/harupy/satomi-ishihara-detector/blob/master/result.jpg" width=50%>
 
-![result](https://github.com/harupy/satomi-ishihara-detector/blob/master/result.jpg)
+## Training Data
+There is no public dataset for Satomi Ishihara. So I scraped Google Images and annoted them using my own annotation tool.
 
-# demo
-```
+## Test
+```console
 git clone git@github.com:harupy/satomi-ishihara-detector.git
 cd satomi-ishihara-detector
 jupyter notebook test.ipynb
 ```
 
-# Reference
-[TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10) 
+# References
+- [TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10) 
+- [Image Detection with YOLO v2 (pt 5) Custom Object Detection Get Images](https://www.youtube.com/watch?v=Lg4T9iJkwhE
+)
+- [Image Detection with YOLO-v2 (pt.6) Custom Object Detection (Draw Bounding Boxes)](https://www.youtube.com/watch?v=Fwcbov4AzQo)
+- [Image Detection with YOLO v2 (pt 7) Custom Object Detection (Generate Annotation Files)](https://www.youtube.com/watch?v=2XznLUgj1mg)
