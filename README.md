@@ -13,7 +13,7 @@ cd satomi-ishihara-detector
 jupyter notebook test.ipynb
 ```
 
-# References
+## References
 - [TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10) 
 - [Image Detection with YOLO v2 (pt 5) Custom Object Detection Get Images](https://www.youtube.com/watch?v=Lg4T9iJkwhE
 )
