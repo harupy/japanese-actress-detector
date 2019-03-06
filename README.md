@@ -4,7 +4,7 @@ An Inception-based faster R-CNN model using Tensorflow to detect Satomi Ishihara
 <img src="https://github.com/harupy/satomi-ishihara-detector/blob/master/result.jpg" width=50%>
 
 ## Training Data
-There is no public dataset for Satomi Ishihara. So I scraped Google Images and annoted them using my own annotation tool.
+There is no public dataset for Satomi Ishihara. So I scraped images from Google Images and annotated them using my own annotation tool.
 
 ## Test
 ```console
