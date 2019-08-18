@@ -6,7 +6,7 @@ An Inception-based faster R-CNN model using Tensorflow to detect Satomi Ishihara
 ## Training Data
 I scraped images from Google Images and annotated them one by one with my own annotation tool.
 
-## Demo
+## How to run the demo
 ```console
 git clone git@github.com:harupy/satomi-ishihara-detector.git
 cd satomi-ishihara-detector
