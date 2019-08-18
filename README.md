@@ -1,10 +1,10 @@
-# Satomi Ishihara Detector
+# Japenese Actress Detector
 An Inception-based faster R-CNN model using Tensorflow to detect Satomi Ishihara (Japanese actress).
 
 <img src="https://github.com/harupy/satomi-ishihara-detector/blob/master/result.jpg" width=50%>
 
 ## Training Data
-There is no public dataset for Satomi Ishihara. So I scraped images from Google Images and annotated them using my own annotation tool.
+I scraped images from Google Images and annotated them one by one with my own annotation tool.
 
 ## Demo
 ```console
